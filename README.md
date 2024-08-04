@@ -232,6 +232,8 @@ module.exports = {
  }
 }
 ```
+Project Implemented on [Academic Master](https://academic-master.com/)
+
 
 ### Run Tailwind
 
